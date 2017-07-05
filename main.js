@@ -15,7 +15,7 @@ givenName = "Tim";
 // 3.
 // What is `givenName` set to right now?
 givenName = givenName;
-// A: set to whatever was orginally assigned to givenName. In this case Tim
+// A: Tim
 
 
 // 4.
