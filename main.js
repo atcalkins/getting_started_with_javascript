@@ -3,7 +3,7 @@
 // 1.
 // What does `givenName` equal right now?
 let givenName;
-// A: declaration
+// A: undefined
 
 
 // 2.
